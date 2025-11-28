@@ -1,6 +1,8 @@
 > [!NOTE]
 >### HOLA 👋
 > #### Graduado en Ingeniería en Sistemas Computacionales.
+>
+>  [!IMPORTANT]
 > #### -😎 Aprendiendo todos los dias algo nuevo ...
 
 <!--
