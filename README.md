@@ -1,8 +1,9 @@
-### HOLA 👋
+> [!NOTE]
+>### HOLA 👋
 
-#### Graduado en Ingeniería en Sistemas Computacionales.
+> #### Graduado en Ingeniería en Sistemas Computacionales.
 
-#### -😎 Aprendiendo todos los dias algo nuevo ...
+> #### -😎 Aprendiendo todos los dias algo nuevo ...
 
 <!--
 **Guillermo-corp/Guillermo-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
