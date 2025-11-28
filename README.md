@@ -1,10 +1,9 @@
 ### HOLA 👋
 
-#### Estudiante de Ingenieria en Sistemas computacionales en la Universidad Cristóbal Colón.
+#### Graduado en Ingeniería en Sistemas Computacionales.
 
 #### -😎 Aprendiendo todos los dias algo nuevo ...
-#### -🙏 Pasión por PHP, JAVA, PYTHON y MYSQL ...
-#### -👻 Abierto a peticiones de ayuda ...
+
 <!--
 **Guillermo-corp/Guillermo-corp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
